@@ -1,1 +1,3 @@
 # Bank-Marketing-Campaign-Data---Exploratory-Data-Analysis-EDA-
+
+In this project, I've conducted a detailed exploratory data analysis (EDA) of a bank's telemarketing campaign data. It begins with a problem statement, outlining the bank's need to optimize its marketing campaigns to increase revenue and profitability. The analysis includes data cleaning, processing of data types, and segmentation of relevant columns. Key steps involve dropping unnecessary columns, splitting combined data into distinct categories, and preparing the dataset for further analysis to uncover patterns that can enhance the effectiveness of future campaigns. This EDA aims to identify which customer attributes are most influential in determining the success of the telemarketing efforts.
